@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        background-color: aquamarine;
+      }
+      .element {
+        font-size: 32px;
+        width: 1800px;
+        padding: 50px;
+        border: 0px solid black;
+        text-align: center;
+      }
+
+      .block {
+        display: block;
+        background-color: rgb(151, 216, 29);
+        margin: 100px 50;
+        padding: 60px;
+        text-align: center;
+      }
+
+      .inline {
+        display: inline-block;
+        background-color: rgb(25, 221, 198);
+        width: 1800px;
+        height: 60px;
+        margin: 50px;
+        padding: 20px;
+      }
+
+    </style>
+  </head>
+  <style>
+    body {
+      border-color: aqua;
+    }
+  </style>
+  <body>
+    <p class="element">NOTICIAS DE ULTIMO MOMENTO BOLIVIA</p>
+    <p class="inline">
+      La concejala Lola Terrazas denunció este miércoles una supuesta
+      manipulación del sistema de cobro de impuestos de la Secretaría de
+      Administración Tributaria (SAT) del municipio cruceño. Según Terrazas, un
+      bien inmueble con una deuda impositiva de más de Bs 3 millones fue
+      reducido a solo 64.629 bolivianos, menos del 2% del monto original. "¿Cómo
+      puede ser posible que, de un teclazo, cambien la deuda impositiva de esa
+      magnitud? ¿Quién está detrás de esto?", cuestionó Terrazas. La concejala
+      señaló que estas irregularidades perjudican gravemente las arcas
+      municipales, afectando la capacidad de la Alcaldía cruceña para pagar
+      salarios y financiar proyectos. Terrazas también recordó que esta no es la
+      primera vez que se denuncia la manipulación del sistema. En agosto, el
+      concejal Marcelo Vidaurre había alertado sobre casos similares, pero no se
+      ha tomado ninguna medida para solucionar el problema.
+    </p>
+    <div class="block">
+      En medio de la continua disputa entre el arcismo y el evismo, varias
+      organizaciones afines al gobierno de Luis Arce salieron este miércoles a
+      marchar en la ciudad de La Paz en contra de las medidas de presión
+      asumidas por grupos que apoyan al expresidente Evo Morales. Uno de los
+      primeros sectores que llegó al centro paceño e incluso ingresó hasta la
+      plaza Murillo fue la Cooperativa Nueva Calamarca de Potosí y cuya
+      dirigencia dio a conocer una resolución en la que se ratifica su “respaldo
+      contundente” al gobierno de Arce. Edgar Copa, dirigente de dicha
+      cooperativa minera, dijo que su organización “no va a permitir ningún tipo
+      de bloqueo de pequeños grupos radicales que sólo perjudican al desarrollo
+      económico del país”.
+    </div>
+    <div class="inline">
+      Juan Carlos Justiniano Suárez e Ignacio Candapuri Pachuri, salieron el
+      miércoles 18 de septiembre de Totaícito, una propiedad ubicada en la
+      provincia Velasco y que pertenece al municipio de San Miguel, zona noreste
+      del departamento de Santa Cruz, internándose en el monte en labores
+      propias campestres y desde esa fecha se perdió todo contacto con ellos.
+      Juan Carlos Justiniano, de 53 años, es un ingeniero agrónomo, hijo de los
+      dueños de la propiedad dedicada a la ganadería y pequeños cultivos
+      agrícolas, mientras que Ignacio Candapuri trabajaba con ellos. Iver
+      Suárez, un veterinario que también tiene una propiedad por la zona y a la
+      vez primo hermano de Juan Carlos, fue la última persona que los vio poco
+      antes de internarse al monte (dentro de su propiedad) y cuando pasó por la
+      vivienda al otro día y ver que no habían vuelto, fue quien dio la voz de
+      alarma.
+    </div>
+    <br />
+    <div class="inline">
+      Derbez reconoció que tiene una fuerte adicción al trabajo. "No tengo
+      tiempo libre, y de repente cuando ves para adelante te sientes esclavo de
+      tu propio trabajo, porque ves que todos se van de vacaciones, ves que
+      alguien está disfrutando por allá o se van a una fiesta y sabes que tienes
+      que ir a dormir temprano porque tienes llamado", aseguró el actor. El
+      productor reveló que esta situación lo hace sentir "agotado" y "triste
+      muchas veces", razón por la que quiere cambiar su situación. "Quiero ya
+      frenar, quiero tener un poquito más de equilibrio, quiero tener un poquito
+      más de tiempo personal", dijo. Derbez mantiene un acelerado ritmo de
+      trabajo, sin embargo, asegura que hace hasta lo imposible para poder pasar
+      el mayor tiempo con su esposa, Alessandra Rosaldo, y su hija Aitana.
+    </div>
+    <div class="block">
+      las noticias de nuestro pais son una manera en la que el boliviano puede
+      permanecer activo e informado, pero debes en cuando el informador cmabia
+      la noticia por completo
+    </div>
+
+  </body>
+</html>
